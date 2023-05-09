@@ -1,0 +1,11 @@
+C:\Users\a9lfk1\Desktop\Controle_estoque\Controle_estoque\bin\Debug\Controle_estoque.exe.config
+C:\Users\a9lfk1\Desktop\Controle_estoque\Controle_estoque\bin\Debug\Controle_estoque.exe
+C:\Users\a9lfk1\Desktop\Controle_estoque\Controle_estoque\bin\Debug\Controle_estoque.pdb
+C:\Users\a9lfk1\Desktop\Controle_estoque\Controle_estoque\obj\Debug\Controle_estoque.CadUser.resources
+C:\Users\a9lfk1\Desktop\Controle_estoque\Controle_estoque\obj\Debug\Controle_estoque.Listagem.resources
+C:\Users\a9lfk1\Desktop\Controle_estoque\Controle_estoque\obj\Debug\Controle_estoque.Login.resources
+C:\Users\a9lfk1\Desktop\Controle_estoque\Controle_estoque\obj\Debug\Controle_estoque.Properties.Resources.resources
+C:\Users\a9lfk1\Desktop\Controle_estoque\Controle_estoque\obj\Debug\Controle_estoque.csproj.GenerateResource.Cache
+C:\Users\a9lfk1\Desktop\Controle_estoque\Controle_estoque\obj\Debug\Controle_estoque.exe
+C:\Users\a9lfk1\Desktop\Controle_estoque\Controle_estoque\obj\Debug\Controle_estoque.pdb
+C:\Users\a9lfk1\Desktop\Controle_estoque\Controle_estoque\obj\Debug\Controle_estoque.csprojResolveAssemblyReference.cache
