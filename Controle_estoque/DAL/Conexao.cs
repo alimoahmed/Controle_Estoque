@@ -12,7 +12,7 @@ namespace Controle_estoque.DAL
         SqlConnection con = new SqlConnection();
         public Conexao()
         {
-            con.ConnectionString = @"Data Source=10.251.24.11;Initial Catalog=TESTE1;Persist Security Info=True;User ID=sa;Password=P@ssw0rd";
+            con.ConnectionString = @"";
         }
         public SqlConnection conectar()
         {
