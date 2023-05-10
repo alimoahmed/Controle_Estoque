@@ -14,7 +14,7 @@ namespace Controle_estoque
             InitializeComponent();
         }
 
-        SqlConnection con = new SqlConnection(@"Data Source=10.251.24.11;Initial Catalog=TESTE1;Persist Security Info=True;User ID=sa;Password=P@ssw0rd");
+        SqlConnection con = new SqlConnection(@"sua_conexao");
         public int id;
 
         private void Listagem_Load(object sender, EventArgs e)
@@ -24,7 +24,7 @@ namespace Controle_estoque
 
         private void GetProdutos()
         {
-            SqlConnection con = new SqlConnection(@"Data Source=10.251.24.11;Initial Catalog=TESTE1;Persist Security Info=True;User ID=sa;Password=P@ssw0rd");
+            SqlConnection con = new SqlConnection(@"sua_conexao");
             SqlCommand cmd = new SqlCommand("Select * from produto", con);
             DataTable dt = new DataTable();
 
