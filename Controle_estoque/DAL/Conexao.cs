@@ -12,7 +12,7 @@ namespace Controle_estoque.DAL
         SqlConnection con = new SqlConnection();
         public Conexao()
         {
-            con.ConnectionString = @"";
+            con.ConnectionString = @"sua_conexao";
         }
         public SqlConnection conectar()
         {
